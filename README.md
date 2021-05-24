@@ -1,5 +1,5 @@
-Siga los siguientes pasos para rodar el proyecto
-se considera que teneis el docker configurado
+Siga los siguientes pasos para rodar el proyecto.
+Se considera que teneis el docker configurado
 1- clonar el proyecto
 2- abrir la terminal y navegar hasta el directório del proyecto (si está en una maqui windows, debes configurar el wsl2 y luego utilizarlo)
 3- ejecuta el comando "composer require laravel/sail --dev" 
